@@ -1,5 +1,6 @@
 # Weather Data
 So i took a dataset called weather data(i have attached the csv file below along with code) and did few things with it about which I will below 
+"C:\Users\aarja\Project 1(Weather data).ipynb"
 
 This dataset contains hourly weather observations for a full leap year (8784 records). It includes key meteorological variables such as temperature, humidity, wind speed, visibility, atmospheric pressure, and a textual description of weather conditions. I have answered few questions for this dataset, I have listed down my reasons for including every question 
 
