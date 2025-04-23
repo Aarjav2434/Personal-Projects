@@ -4,6 +4,7 @@ So i took a dataset called weather data(i have attached the csv file below along
 This dataset contains hourly weather observations for a full leap year (8784 records). It includes key meteorological variables such as temperature, humidity, wind speed, visibility, atmospheric pressure, and a textual description of weather conditions. I have answered few questions for this dataset, I have listed down my reasons for including every question 
 
 Calculating all the unique wind speed values in the dataset 
+
 ![image](https://github.com/user-attachments/assets/ede7a6d8-d8ab-4e5b-8376-6899abcce78b)
 
 
@@ -11,6 +12,7 @@ Calculating all the unique wind speed values in the dataset
 Usefulness :-  We can see every wind speed that ever happened in the data. This helps check that wind turbines and sensors work for all wind levels. It also shows if very strong or very weak winds are common or rare.
 
 Times when weather was “Clear” 
+
 ![image](https://github.com/user-attachments/assets/a1c86902-08cc-41c1-87fe-a772e2f99f84)
 
 
